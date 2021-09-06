@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WillenaWorkInstructionConvertor", "TestDocX2\WillenaWorkInstructionConvertor.csproj", "{5DF8DB02-D363-4D0A-95AE-D8658337C985}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DF8DB02-D363-4D0A-95AE-D8658337C985}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DF8DB02-D363-4D0A-95AE-D8658337C985}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DF8DB02-D363-4D0A-95AE-D8658337C985}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DF8DB02-D363-4D0A-95AE-D8658337C985}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF1FB25F-FCAC-44EB-AB91-EBB200BD575B}
+	EndGlobalSection
+EndGlobal
